@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-class test{
+class sorting{
 
 	//Insertion Sort O(n^2)
 	void insertionSort(int arr[]){
