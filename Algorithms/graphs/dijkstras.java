@@ -61,3 +61,6 @@ class dijkstras{
         ob.algorithm(graph,0);
 	}
 }
+
+// added new line
+
