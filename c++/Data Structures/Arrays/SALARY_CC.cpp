@@ -11,7 +11,7 @@ int main(){
 		cin >> n;
 		int w[n];
 		int sum = 0;
-		int minInd = 1;
+		int minInd = 0;
 		for(int i=0; i < n; i++){
 			cin >> w[i];
 			sum += w[i];
